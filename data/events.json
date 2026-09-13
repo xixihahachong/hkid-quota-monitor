@@ -1,14 +1,4 @@
 {
- "generated_at": "2026-09-13T19:50:43+08:00",
- "events": [
-  {
-   "type": "quota_gone",
-   "office": "RKO",
-   "date": "2027-01-09",
-   "session": "R",
-   "from": "y",
-   "to": "r",
-   "detected_at": "2026-09-13T19:50:44+08:00"
-  }
- ]
+ "generated_at": "2026-09-13T20:13:38+08:00",
+ "events": []
 }
