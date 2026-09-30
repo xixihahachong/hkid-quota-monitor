@@ -9170,3 +9170,4 @@
 {"type": "new_date", "office": "TMO", "date": "2027-01-26", "session": "R", "from": null, "to": "g", "detected_at": "2026-09-30T00:39:02+08:00", "src": "09/30/2026 00:30:06"}
 {"type": "new_date", "office": "YLO", "date": "2027-01-26", "session": "R", "from": null, "to": "g", "detected_at": "2026-09-30T00:39:02+08:00", "src": "09/30/2026 00:30:06"}
 {"type": "quota_open", "office": "FTO", "date": "2027-01-02", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-30T13:52:38+08:00", "src": "09/30/2026 13:48:39"}
+{"type": "quota_open", "office": "RTK", "date": "2027-01-09", "session": "R", "from": "r", "to": "y", "detected_at": "2026-09-30T20:01:34+08:00", "src": "09/30/2026 19:50:44"}
